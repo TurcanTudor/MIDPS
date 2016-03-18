@@ -31,4 +31,6 @@ doc/**/*.pdf
 *.~cpp
 *.~h
 *.~dfm
+*.~bpr
+*.dfm
 
