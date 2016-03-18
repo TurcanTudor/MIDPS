@@ -18,3 +18,17 @@ doc/*.txt
 
 # ignore all .pdf files in the doc/ directory
 doc/**/*.pdf
+
+*.exe
+*.sln
+*.config
+*.~ddp
+*.ddp
+*.obj
+*.res
+*.tds
+*.bpr
+*.~cpp
+*.~h
+*.~dfm
+
