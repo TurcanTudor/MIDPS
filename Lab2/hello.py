@@ -1,1 +1,3 @@
-print "Hello World, I am student";
+
+print "Hello world, i finished my lab";
+
